@@ -1,6 +1,7 @@
 #include <iostream>
 
 #include "functions1.h"
+#include "methods1.h"
 
 int main()
 {
@@ -27,6 +28,7 @@ int main()
 	std::cout << a << " - " << b << std::endl;
 	*/
 
-	main_functions1();
+	//main_functions1();
+	main_methods1();
 
 }
